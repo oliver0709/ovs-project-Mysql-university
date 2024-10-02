@@ -1,3 +1,5 @@
+CREATE SCHEMA `devcamp_university_ovs_schema` ;
+
 USE devcamp_university_ovs_schema;
 
 -- Creacion de tablas
