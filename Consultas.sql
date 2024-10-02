@@ -44,9 +44,3 @@ JOIN Professors p ON c.professor_id = p.professor_id
 GROUP BY s.name, p.name
 ORDER BY common_courses DESC
 LIMIT 1;
-
-SELECT s.name AS student, c.name AS course
-FROM Students s
-JOIN Grades g ON s.student_id = g.student_id
-JOIN Courses c ON g.course_id = c.course_id
-ORDER BY s.name, c.name;
