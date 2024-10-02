@@ -10,9 +10,9 @@ Este proyecto crea una base de datos para una universidad que gestiona estudiant
 - **Grades**: Información sobre las calificaciones (de 0 a 100 puntos).
 
 ## Cómo usar
-1. Ejecutar el archivo `creacion_tablas.sql` para crear las tablas en la base de datos.
-2. Ejecutar el archivo `insertamos_datos.sql` para insertar datos de ejemplo.
-3. Ejecutar las consultas del archivo `consultas.sql` para obtener información.
+1. Ejecutar el archivo `Creacion_tablas.sql` para crear las tablas en la base de datos.
+2. Ejecutar el archivo `Insertamos_datos.sql` para insertar datos de ejemplo.
+3. Ejecutar las consultas del archivo `Consultas.sql` para obtener información.
 
 ## Consultas
 El archivo `consultas.sql` contiene consultas para:
